@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ttsoftcontroleur.MainActivity" >
+
+   
+    
+    <item
+        android:id="@+id/termiate_service"
+        android:showAsAction="never"
+        android:title="@string/fin_service"/>
+
+</menu>
